@@ -1,1 +1,1 @@
-# laboraatorul-1
+# laboratoare
